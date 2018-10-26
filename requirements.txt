@@ -9,7 +9,7 @@ Cython==0.28.5
 
 
 ##### Machine Learning packages
-scikit-learn==0.19.1
+scikit-learn==0.20.0
 
 # Optional: the XGBoost library is only used in the ensemble learning chapter.
 xgboost==0.71
